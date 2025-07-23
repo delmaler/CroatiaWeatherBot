@@ -24,7 +24,7 @@ python3 bot.py
 
 ## Configuration
 
-PLACEHOLDER
+in a .env file use your bot token
 
 ## Contributing
 
