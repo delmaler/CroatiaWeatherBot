@@ -1,0 +1,6 @@
+.env
+weather_report.json
+constants.py
+__pycache__/
+output.txt
+.venv/*
